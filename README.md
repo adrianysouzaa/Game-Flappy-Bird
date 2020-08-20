@@ -1,4 +1,4 @@
-<p align= "center"># Game-Flappy-Bird
+<h1> <p align= "center">  Game-Flappy-Bird <h1>
  </p>
 
 
