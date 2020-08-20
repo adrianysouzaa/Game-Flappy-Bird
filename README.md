@@ -1,4 +1,6 @@
-# Game-Flappy-Bird
+<p align= "center"># Game-Flappy-Bird
+ </p>
+
 
 
 <p align= "center"> :video_game:  Jogo feito apenas em Javascript. :video_game:
