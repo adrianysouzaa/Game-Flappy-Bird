@@ -3,7 +3,7 @@
 
 
 
-<h2> <p align= "center"> :video_game:  Jogo feito apenas em Javascript. :video_game: </h2>
+<h2> <p align= "center"> :video_game:  Jogo feito em Javascript. :video_game: </h2>
 </p>
 
 <p align= "center"> 
